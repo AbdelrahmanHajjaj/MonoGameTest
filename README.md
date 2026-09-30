@@ -58,3 +58,11 @@ var world = new WorldBuilder()
     .Build();
 ```
 
+## Controls
+
+| Key | Action |
+| --- | --- |
+| A | Move left |
+| D | Move right |
+| Space | Jump |
+| Escape | Quit |
